@@ -1,4 +1,4 @@
-const apiKey = 'https://dog.ceo/dog-api/'; // Replace with your OpenWeatherMap API key
+const apiKey = 'd52d7274db1a437eb2d173159252005'; // Replace with your OpenWeatherMap API key
 
 function getWeather() {
   const city = document.getElementById('cityInput').value;
